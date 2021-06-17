@@ -1,6 +1,13 @@
 
 # LEDMatrix
 ------------
+
+This is a fork of https://github.com/Jorgen-VikingGod/LEDMatrix with some additional functionality for sprites etc.
+
+Following readme is the original one from Jorgen-VikingGod's Github:
+
+------------
+
 [![Travis build](https://img.shields.io/travis/Jorgen-VikingGod/LEDMatrix.svg)](https://travis-ci.org/Jorgen-VikingGod/LEDMatrix) 
 [![GitHub version](https://img.shields.io/github/release/Jorgen-VikingGod/LEDMatrix.svg)](https://github.com/Jorgen-VikingGod/LEDMatrix/releases/latest) 
 [![FastLED dependencies](https://img.shields.io/badge/dependencies-FastLED-blue.svg)](https://github.com/FastLED/FastLED) 
